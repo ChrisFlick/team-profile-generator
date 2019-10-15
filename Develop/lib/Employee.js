@@ -27,6 +27,10 @@ class Employee {
         return this._email
     }
 
+    get role() {
+        return this._role;
+    }
+
 	/*********************
 	****** Setters *******
     *********************/
