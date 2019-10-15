@@ -29,7 +29,7 @@ class Intern extends Employee {
 	****** Methods *******
     *********************/
     
-    getSchool() {
+    getRoleVar() {
         return this.school;
     }
 

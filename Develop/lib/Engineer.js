@@ -30,7 +30,7 @@ class Engineer extends Employee {
 	****** Methods *******
     *********************/
     
-    getGithub() {
+    getRoleVar() {
         return this.github;
     }
 
