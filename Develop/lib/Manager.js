@@ -32,7 +32,7 @@ class Manager extends Employee {
 	****** Methods *******
     *********************/
     
-    getOfficeNumber() {
+    getRoleVar() {
         return this.officeNumber;
     }
 
